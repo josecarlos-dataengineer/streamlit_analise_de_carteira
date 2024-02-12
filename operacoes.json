@@ -1,0 +1,42 @@
+[
+    {
+        "id_usuario": "e11fa6d4",
+        "id_carteira": "Maria",
+        "id": "abd603d6",
+        "tipo": "compra",
+        "data": "2024-02-12",
+        "CSTB3": {
+            "15": "25"
+        }
+    },
+    {
+        "id_usuario": "f33e1938",
+        "id_carteira": "f33e1938",
+        "id": "67503aeb",
+        "tipo": "compra",
+        "data": "2024-02-12",
+        "KLBN11": {
+            "500": "100"
+        }
+    },
+    {
+        "id_usuario": "1561561",
+        "id_carteira": "15161516",
+        "id": "48b335b3",
+        "tipo": "compra",
+        "data": "2024-02-12",
+        "CLAN3": {
+            "5000": "20"
+        }
+    },
+    {
+        "id_usuario": "156165156",
+        "id_carteira": "15616515",
+        "id": "597c1fff",
+        "tipo": "compra",
+        "data": "2024-02-12",
+        "CLAN3": {
+            "100": "100"
+        }
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "id": "de32829a",
+        "nome": "tati",
+        "perfil": "conservador",
+        "tags": [
+            "fake"
+        ],
+        "tickers": {
+            "": {
+                "": ""
+            }
+        }
+    },
+    {
+        "id": "7f9c1b86",
+        "nome": "Maria",
+        "perfil": "moderado",
+        "tags": [
+            "fake"
+        ],
+        "tickers": {
+            "": {
+                "": ""
+            }
+        }
+    },
+    {
+        "id": "0d128362",
+        "nome": "Jo",
+        "perfil": "conservador",
+        "tags": [
+            "fake"
+        ],
+        "tickers": {
+            "": {
+                "": ""
+            }
+        }
+    },
+    {
+        "id": "c9d6aa64",
+        "nome": "Josepapapa",
+        "perfil": "conservador",
+        "tags": [
+            "fake"
+        ],
+        "tickers": {
+            "": {
+                "": ""
+            }
+        }
+    },
+    {
+        "id": "0a754b73",
+        "nome": "lolo",
+        "perfil": "conservador",
+        "tags": [
+            "fake"
+        ],
+        "tickers": {
+            "": {
+                "": ""
+            }
+        }
+    }
+]

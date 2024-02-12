@@ -1,0 +1,6 @@
+testes
+.env
+secrets
+pages/__pycache__
+pages/utils
+pages/fundamentus.csv

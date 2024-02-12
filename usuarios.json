@@ -1,0 +1,32 @@
+[
+    {
+        "id_usuario": "3aa8d4eb",
+        "nome": "tati",
+        "perfis": "conservador",
+        "carteiras": "tati"
+    },
+    {
+        "id_usuario": "e11fa6d4",
+        "nome": "Mari",
+        "perfis": "moderado",
+        "carteiras": "Maria"
+    },
+    {
+        "id_usuario": "54fee192",
+        "nome": "Jo",
+        "perfis": "conservador",
+        "carteiras": "Jo"
+    },
+    {
+        "id_usuario": "f33e1938",
+        "nome": "Jose",
+        "perfis": "conservador",
+        "carteiras": "Josepapapa"
+    },
+    {
+        "id_usuario": "661e1a17",
+        "nome": "lolo",
+        "perfis": "conservador",
+        "carteiras": "lolo"
+    }
+]

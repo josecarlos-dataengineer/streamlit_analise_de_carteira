@@ -1,0 +1,11 @@
+mysql-connector-python
+pyarrow
+pyodbc
+pandas==1.3.3
+pymysql==1.0.2 
+sqlalchemy==1.4.25
+pymongo
+pyarrow
+beautifulsoup4
+streamlit
+matplotlib

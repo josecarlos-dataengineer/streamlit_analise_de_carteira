@@ -1,0 +1,39 @@
+Ambiente:Local 
+ path:c:\Users\SALA443\Desktop\Projetos\josecarlos-dataengineer\Analise_de_carteira\testes\python\pages -  uri_scan - analytics.py - 2024-02-10 14:00:36,397
+Client conectado! URI:mongodb://localhost:27017/ -  client_mongo - analytics.py - 2024-02-10 14:00:36,533
+0 documentos da coleção operacoes foram carregados para a lista. -  mongo_to_dict_list - analytics.py - 2024-02-10 14:00:36,597
+conexão criada para
+host=localhost
+user=root
+password=****
+database=db -  criar - analytics.py - 2024-02-10 14:00:36,817
+Ambiente:Local 
+ path:c:\Users\SALA443\Desktop\Projetos\josecarlos-dataengineer\WEB_Analise_de_carteira\pages -  uri_scan - analytics.py - 2024-02-10 15:07:26,713
+Client conectado! URI:mongodb://localhost:27017/ -  client_mongo - analytics.py - 2024-02-10 15:07:26,731
+0 documentos da coleção usuario foram carregados para a lista. -  mongo_to_dict_list - analytics.py - 2024-02-10 15:07:26,770
+Ambiente:Local 
+ path:c:\Users\SALA443\Desktop\Projetos\josecarlos-dataengineer\WEB_Analise_de_carteira\pages -  uri_scan - analytics.py - 2024-02-10 15:09:09,417
+Client conectado! URI:mongodb://localhost:27017/ -  client_mongo - analytics.py - 2024-02-10 15:09:09,425
+2 documentos da coleção usuarios foram carregados para a lista. -  mongo_to_dict_list - analytics.py - 2024-02-10 15:09:09,449
+Ambiente:Local 
+ path:c:\Users\SALA443\Desktop\Projetos\josecarlos-dataengineer\WEB_Analise_de_carteira\pages -  uri_scan - analytics.py - 2024-02-10 15:09:37,912
+Client conectado! URI:mongodb://localhost:27017/ -  client_mongo - analytics.py - 2024-02-10 15:09:37,919
+14 documentos da coleção operacoes foram carregados para a lista. -  mongo_to_dict_list - analytics.py - 2024-02-10 15:09:37,947
+Ambiente:Local 
+ path:c:\Users\SALA443\Desktop\Projetos\josecarlos-dataengineer\WEB_Analise_de_carteira\pages -  uri_scan - analytics.py - 2024-02-10 22:39:51,164
+Client conectado! URI:mongodb://localhost:27017/ -  client_mongo - analytics.py - 2024-02-10 22:39:51,197
+14 documentos da coleção operacoes foram carregados para a lista. -  mongo_to_dict_list - analytics.py - 2024-02-10 22:39:51,262
+conexão criada para
+host=localhost
+user=root
+password=****
+database=db -  criar - analytics.py - 2024-02-10 22:39:51,526
+Ambiente:Local 
+ path:c:\Users\SALA443\Desktop\Projetos\josecarlos-dataengineer\WEB_Analise_de_carteira\pages -  uri_scan - analytics.py - 2024-02-10 22:40:31,320
+Client conectado! URI:mongodb://localhost:27017/ -  client_mongo - analytics.py - 2024-02-10 22:40:31,324
+14 documentos da coleção operacoes foram carregados para a lista. -  mongo_to_dict_list - analytics.py - 2024-02-10 22:40:31,347
+conexão criada para
+host=localhost
+user=root
+password=****
+database=db -  criar - analytics.py - 2024-02-10 22:40:31,397
