@@ -38,5 +38,15 @@
         "CLAN3": {
             "100": "100"
         }
+    },
+    {
+        "id_usuario": "7dbfe753",
+        "id_carteira": "teste",
+        "id": "595660fa",
+        "tipo": "compra",
+        "data": "2024-02-12",
+        "CVCB3": {
+            "1000": "50"
+        }
     }
 ]

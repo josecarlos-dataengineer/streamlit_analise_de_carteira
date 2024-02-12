@@ -63,5 +63,18 @@
                 "": ""
             }
         }
+    },
+    {
+        "id": "ebfa3a03",
+        "nome": "teste",
+        "perfil": "arrojado",
+        "tags": [
+            "fake"
+        ],
+        "tickers": {
+            "": {
+                "": ""
+            }
+        }
     }
 ]

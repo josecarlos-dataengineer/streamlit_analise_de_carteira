@@ -4,3 +4,4 @@ secrets
 pages/__pycache__
 pages/utils
 pages/fundamentus.csv
+web_env

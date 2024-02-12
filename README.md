@@ -22,3 +22,4 @@ streamlit run home.py --server.port=8501 --server.address=0.0.0.0
 
 # Próximos passos:
 A criação de gráficos que mostrem mais informações das carteiras de ações, como média de P/L, perfil (participação do Governo nas ações) e outras.
+Apontar os arquivos fonte para AWS S3.

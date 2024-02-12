@@ -4,7 +4,7 @@ import os
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
-sys.path.append(r'C:/Users/SALA443/Desktop/Projetos/DataEngineering_Kubernetes/test_folder/Lib/site-packages')
+sys.path.append(r'C:\Users\SALA443\Desktop\Projetos\josecarlos-dataengineer\WEB_Analise_de_carteira\streamlit_analise_de_carteira\web_env\Lib\site-packages')
 # from utils.analytics import usuario,carteiras
 import streamlit as st 
 import pandas as pd
@@ -252,7 +252,7 @@ class carteiras():
 # carregando lista de tickers
 
 # st.text("Carregando")
-df = pd.read_csv('C:/Users/SALA443/Desktop/Projetos/josecarlos-dataengineer/WEB_Analise_de_carteira/pages/fundamentus.csv',sep=';',encoding='utf-8')
+df = pd.read_csv('C:/Users/SALA443/Desktop/Projetos/josecarlos-dataengineer/WEB_Analise_de_carteira/streamlit_analise_de_carteira/pages/fundamentus.csv',sep=';',encoding='utf-8')
 
 
 st.sidebar.title("Menu")

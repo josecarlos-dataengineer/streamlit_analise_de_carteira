@@ -4,7 +4,7 @@ import os
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
-sys.path.append(r'C:/Users/SALA443/Desktop/Projetos/DataEngineering_Kubernetes/test_folder/Lib/site-packages')
+sys.path.append(r'C:\Users\SALA443\Desktop\Projetos\josecarlos-dataengineer\WEB_Analise_de_carteira\streamlit_analise_de_carteira\web_env\Lib\site-packages')
 # from utils.analytics import operacao,env_builder
 import streamlit as st 
 import pandas as pd
@@ -71,7 +71,7 @@ class env_builder():
 class consulta_cadastro():
     
     def dicionario_usuarios():
-        with open(r'C:\Users\SALA443\Desktop\Projetos\josecarlos-dataengineer\WEB_Analise_de_carteira\usuarios.json', 'r+',encoding='UTF-8') as arquivo:
+        with open(r'C:\Users\SALA443\Desktop\Projetos\josecarlos-dataengineer\WEB_Analise_de_carteira\streamlit_analise_de_carteira\usuarios.json', 'r+',encoding='UTF-8') as arquivo:
                 data = json.load(arquivo)
         return data
     
@@ -234,7 +234,7 @@ class mongo_etl():
 # carregando lista de tickers
 
 # st.text("Carregando")
-df = pd.read_csv('C:/Users/SALA443/Desktop/Projetos/josecarlos-dataengineer/WEB_Analise_de_carteira/pages/fundamentus.csv',sep=';',encoding='utf-8')
+df = pd.read_csv('C:/Users/SALA443/Desktop/Projetos/josecarlos-dataengineer/WEB_Analise_de_carteira/streamlit_analise_de_carteira/pages/fundamentus.csv',sep=';',encoding='utf-8')
 
 lista_usuarios = consulta_cadastro.retorna_lista_de_usuarios()
 
@@ -271,3 +271,5 @@ with form:
             database = 'plataforma'
 
             mongo_etl.carga_mongodb_many(path=path,files=filesl,database=database)
+            
+            

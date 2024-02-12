@@ -28,5 +28,11 @@
         "nome": "lolo",
         "perfis": "conservador",
         "carteiras": "lolo"
+    },
+    {
+        "id_usuario": "7dbfe753",
+        "nome": "Tonho",
+        "perfis": "arrojado",
+        "carteiras": "teste"
     }
 ]
